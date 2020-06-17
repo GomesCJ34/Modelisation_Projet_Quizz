@@ -1,0 +1,20 @@
+﻿Les acteurs qui interviennent sont :
+- l'admin
+- le joueur
+- le visiteur
+
+Les packages sont :
+- sécurité
+- questions
+- jouer
+
+Les uses cases : 
+ pour package sécurité : - se connecter
+		- se déconnecter
+		- créer utilisateur
+pour package questions : - créer questions
+		 - lister questions
+		 - créer réponses
+pour package jouer : - choisir réponses
+	              - enregistrer réponses
+ 	              - lister scores
